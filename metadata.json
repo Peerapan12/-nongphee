@@ -1,0 +1,5 @@
+{
+  "name": "ระบบจัดตารางเวร โรงพยาบาลเทพสตรี",
+  "description": "A high-performance nurse scheduling dashboard for Thepsatri Hospital with real-time shift management and AI-powered scheduling insights.",
+  "requestFramePermissions": []
+}
